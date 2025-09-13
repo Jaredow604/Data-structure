@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1757724993 source:c:\users\jaredow604\documents\data-structure\practice2\practice2\main.cpp
+	<iostream>
+	"Alumno.h"
+	"Cola.h"
+
+1757724906 c:\users\jaredow604\documents\data-structure\practice2\practice2\include\alumno.h
+	<iostream>
+
+1757724965 c:\users\jaredow604\documents\data-structure\practice2\practice2\include\cola.h
+	<iostream>
+
+1757724901 source:c:\users\jaredow604\documents\data-structure\practice2\practice2\src\alumno.cpp
+	"Alumno.h"
+	<cstring>
+	<iomanip>
+
