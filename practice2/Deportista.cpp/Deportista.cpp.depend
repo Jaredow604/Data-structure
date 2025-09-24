@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1758691528 source:c:\users\jaredow604\documents\data-structure\practice2\deportista.cpp\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"Deportista.h"
+
+1758691577 c:\users\jaredow604\documents\data-structure\practice2\deportista.cpp\include\deportista.h
+	<string>
+
+1758691592 source:c:\users\jaredow604\documents\data-structure\practice2\deportista.cpp\src\deportista.cpp
+	"Deportista.h"
+	<string>
+	<cstring>
+
